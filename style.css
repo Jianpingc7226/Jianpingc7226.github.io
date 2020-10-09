@@ -41,7 +41,6 @@ a {
 
 .bg-2 {
     background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%); /* Blue */
-    color: #ffffff;
 }
 
 .card {

@@ -40,7 +40,7 @@ a {
 }
 
 .bg-2 {
-    background-color: #2e72a1; /* Blue */
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%); /* Blue */
     color: #ffffff;
 }
 
